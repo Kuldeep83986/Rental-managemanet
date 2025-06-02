@@ -92,5 +92,5 @@ Provide default user credentials here if applicable (e.g., admin user)
 - MongoDB with Mongoose
 - JWT for authentication
 - Multer for file uploads
-- Stripe for payment processing
-- Nodemailer sfor email notifications
+- Stripe (stubbed) for payment processing
+- Nodemailer (stubbed) for email notifications
